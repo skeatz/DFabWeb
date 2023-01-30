@@ -19,7 +19,8 @@
 1. 3rd item
 
 **Hyper-link**
-Link to [index.html](index.html)
+
+- Link to [index.html](index.html)
 
 **Add image**
 
